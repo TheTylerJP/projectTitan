@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/tyler.phillips/projectTitan/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
